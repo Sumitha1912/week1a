@@ -1,4 +1,8 @@
 first line for stash
 second line for stash
 third line for stash
+<<<<<<< Updated upstream
 sixth line for stash
+=======
+fifth line for stash
+>>>>>>> Stashed changes
