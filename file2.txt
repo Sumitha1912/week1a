@@ -1,0 +1,3 @@
+first line for stash
+second line for stash
+third line for stash
